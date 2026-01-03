@@ -1,8 +1,3 @@
-############################
-## COURSE CODE: LELA60341 ##
-## STUDENT ID: 8492329    ##
-############################
-
 import re
 from collections import Counter
 import statistics as stats
